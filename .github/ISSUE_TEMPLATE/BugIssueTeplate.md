@@ -1,8 +1,8 @@
 ---
 Type (종류): Bug
 about (상세내용): Create a report to help us improve 
-title (내용) : ''
-Writer.(작성자) : ''
+title (내용) : 'SQL Connection Error'
+Writer.(작성자) : 'Nifskor'
 
 ---
 
